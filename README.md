@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Zephyr
 - 👀 I’m interested in Server Moderation (Minecraft)
 - 🌱 I’m currently learning How to professionally Moderate a Minecraft Server
+- Studying Computer Science - AIML (Specialization)
 - 📫 How to reach me - Zephyrus5929 (Discord)
 
 <!---
